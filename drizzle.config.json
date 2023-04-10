@@ -1,0 +1,5 @@
+{
+  "out": "./migrations",
+  "schema": "./src/db",
+  "connectionString": "mysql://xya991q2ypj9pg677tmi:pscale_pw_2kHihFRy6OA55fk8oRpXPgTMFBtf4sK2ShKwmg3VS02@aws.connect.psdb.cloud/edge-2?ssl={\"rejectUnauthorized\":true}"
+}
